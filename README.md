@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Caso de estudio deL curso de Google Analytics. Supuesto práctico para poner aplicar lo aprendido en el curso.
+Caso de estudio del curso de Google Analytics. Supuesto práctico para poner aplicar lo aprendido en el curso.
 
 ## Tarea empresarial:
 
