@@ -202,7 +202,7 @@ Propongo enviar una notificación un domingo al mes avisando a nuestros usuarios
 Sin ser invasivos pero buscando ayudar a nuestro cliente a perseguir el objetivo por el cual compró nuestro producto, tener una mejor salud.
 
 ### Analisis horas de sueño
-Comenzando un analisis más en profundidad sobre los parametros sobre el sueño que existen en nuestra bases de datos decidimos crear también una columna para saber los dias de la semana de esta de manera similar a la previamente realizada.
+Comenzando un analisis más en profundidad sobre los parámetros sobre el sueño que existen en nuestra bases de datos, decidimos crear una nueva columna para un mejor análisis.
 
 1. Comenzamos creando una columna en formato texto para almacenar esta información con el siguiente código:
 
