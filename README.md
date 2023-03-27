@@ -1,20 +1,14 @@
-# Case of study
-## Google Analitycs Coursera
-
-1. ¿Cuáles son algunas tendencias en el uso de dispositivos inteligentes?
-2. ¿Cómo podrían aplicarse estas tendencias a los clientes de Bellabeat?
-3. ¿Cómo podrían influir estas tendencias en la estrategia de marketing de Bellabeat?
+# Case of study/Google Analitycs Coursera
 
 ## Introducción
 
-Caso de estudio de mi curso de Google Analytics. Supuesto práctico para poner aplicar lo aprendido en el curso.
+Caso de estudio deL curso de Google Analytics. Supuesto práctico para poner aplicar lo aprendido en el curso.
 
 ## Tarea empresarial:
 
-Se nos ha pedido que nos centremos en uno de los productos de Bellabeat y analice los datos de los dispositivos inteligentes para conocer cómo los utilizan los consumidores. La información que descubra ayudará a orientar la estrategia de marketing de la empresa. 
+Se nos ha pedido que nos centremos en uno de los productos de Bellabeat y analicemos los datos de los dispositivos inteligentes que comercializa la marca  para conocer cómo los utilizan los consumidores. La información que descubra ayudará a orientar la estrategia de marketing de la empresa. 
 
 > Bellabeat: Un fabricante de alta tecnología que recopila datos sobre actividad, sueño y estrés para dotar a las mujeres de conocimientos sobre su propia salud y sus hábitos.
-
    
 ## Data
 
@@ -41,9 +35,6 @@ He seleccionado los siguientes archivos.csv para mi análisis basándome en los 
 ## Limpieza de las bases de datos
 
 Comencé la limpieza de las bases de datos usando la aplicación **Google Sheets**. 
-
-1. Ordenar y filtrar la columna de ID para saber cuantos valores únicos tiene.
-2. Usar la opción de eliminar duplicados de google Sheets para detectar líneas de datos repetidas erróneamente.
 
 ### Weight_log_info_merged:
 
@@ -111,9 +102,7 @@ Comencé la limpieza de las bases de datos usando la aplicación **Google Sheets
 
 [Google Sheets](https://docs.google.com/spreadsheets/d/1UM1kbPFeT6q5_903Kkuu4PfYj1uN_nvYTWkdGgUHc8o/edit?usp=sharing)
 
-
-
-Hemos realizado una estandarización de las columnas tanto de los nombres como del orden para poder realizar un mejor análisis en la plataforma **Big Query**.
+Para finalizar la limpieza de las bases de datos hemos realizado una estandarización de las columnas tanto de los nombres como del orden para poder realizar un mejor análisis en la plataforma **Big Query**.
 
 ## Fase de análisis y representación gráfica.
 
@@ -306,7 +295,7 @@ Hora a la que menos andan de media: 20:00 PM
 
 **Conclusión y sugerencia**
 
-Estos datos muestran la medio de los horarios de caminar de nuestros clientes. Por lo tanto podríamos desarrollar campañas de marketing potenciando las horas a las que ya caminan nuestros clientes o intentando mejorar a las que no caminan.
+Estos datos muestran la media de los horarios de caminar de nuestros clientes. Por lo tanto podríamos desarrollar campañas de marketing potenciando las horas a las que ya caminan nuestros clientes o intentando mejorar a las que no caminan.
 
 Ejemplo: Si interpretamos que tanto a las 9:00 AM como a las 14:00 PM caminan tanto por que estan llendo o volviendo del trabajo podemos buscar incentivar a la gente que busque completar los pasos necesarios del día en estos momentos. Haciendo campañas para incentivar no usar el ascensor o medidas similares.
 
