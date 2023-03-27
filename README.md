@@ -199,7 +199,7 @@ El promedio de pasos diarios llega a la recomendación media de 7500 o se acerca
 
 ### Propuesta:
 Propongo enviar una notificación un domingo al mes avisando a nuestros usuarios de que ese dia suele ser el más inactivo para la gente.
-Sin ser invasivos pero buscando ayudar a nuestro cliente a perseguir el objetivo por el cual compro nuestro producto, tener una mejor salud.
+Sin ser invasivos pero buscando ayudar a nuestro cliente a perseguir el objetivo por el cual compró nuestro producto, tener una mejor salud.
 
 ### Analisis horas de sueño
 Comenzando un analisis más en profundidad sobre los parametros sobre el sueño que existen en nuestra bases de datos decidimos crear también una columna para saber los dias de la semana de esta de manera similar a la previamente realizada.
