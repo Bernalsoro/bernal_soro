@@ -4,7 +4,7 @@
 
 Caso de estudio del curso de Google Analytics. Supuesto práctico para poner en práctica lo aprendido.
 
-## Tarea empresarial:
+## Tarea empresarial
 
 Se nos ha pedido que nos centremos en uno de los productos de Bellabeat y analicemos los datos de los dispositivos inteligentes que comercializa la marca  para conocer cómo los utilizan los consumidores. La información que descubra ayudará a orientar la estrategia de marketing de la empresa. 
 
