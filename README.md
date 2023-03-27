@@ -1,4 +1,4 @@
-# Case of study/Google Analitycs Coursera
+# Google Analitycs Coursera
 
 ## Introducción
 
