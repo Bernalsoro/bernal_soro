@@ -6,7 +6,7 @@ Caso de estudio del curso de Google Analytics. Supuesto práctico para poner en 
 
 ## Tarea empresarial
 
-Se nos ha pedido que nos centremos en uno de los productos de Bellabeat y analicemos los datos de los dispositivos inteligentes que comercializa la marca  para conocer cómo los utilizan los consumidores. La información que descubra ayudará a orientar la estrategia de marketing de la empresa. 
+Se nos ha pedido que nos centremos en uno de los productos de Bellabeat y analicemos los datos de este para conocer cómo los utilizan los consumidores. La información que descubramos ayudará a orientar la estrategia de marketing de la empresa. 
 
 > Bellabeat: Un fabricante de alta tecnología que recopila datos sobre actividad, sueño y estrés para dotar a las mujeres de conocimientos sobre su propia salud y sus hábitos.
    
