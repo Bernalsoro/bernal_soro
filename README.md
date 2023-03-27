@@ -25,12 +25,12 @@ Se descargaron dieciocho conjuntos de datos de FitBit Fitness Tracker Data. Los 
 
 He seleccionado los siguientes archivos.csv para mi análisis basándome en los criterios de peso de la base de datos e información más relevante.
 
-#### Daily_Activity_Merged
-#### Hourly_Steps_Merged
-#### Weight_Log_info_Merged
-#### Hourly_Calories_Merged
-#### Hourly_Intensity_Merged
-#### Daily_Sleep_Merged
+#### - Daily_Activity_Merged
+#### - Hourly_Steps_Merged
+#### - Weight_Log_info_Merged
+#### - Hourly_Calories_Merged
+#### - Hourly_Intensity_Merged
+#### - Daily_Sleep_Merged
 
 ## Limpieza de las bases de datos
 
