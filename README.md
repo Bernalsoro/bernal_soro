@@ -340,7 +340,7 @@ Estos datos muestran la media de los horarios de caminar de nuestros clientes. P
 **Ejemplo:** Si interpretamos que tanto a las 9:00 AM como a las 14:00 PM caminan tanto por que estan llendo o volviendo del trabajo podemos buscar incentivar a la gente que busque completar los pasos necesarios del día en estos momentos. Haciendo campañas para incentivar no usar el ascensor o medidas similares.
 
 
-# Limitaciones del caso de estudio
+## Limitaciones del caso de estudio
 
 Este caso de estudio se basa en unos datos aportados voluntariamente por unas 33 personas las cuales **no se sabe su información demográfica o geográfica**.
 Para llegar a conclusiones reales y más acertadas se necesitaria más información.
