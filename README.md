@@ -305,6 +305,64 @@ Ejemplo: Si interpretamos que tanto a las 9:00 AM como a las 14:00 PM caminan ta
 
 A partir de estos datos que hemos recopilado podemos llegar a las siguientes conclusiones:
 
-# Análisis pasos diarios
+## Análisis pasos diarios
+
+En cuanto al reparto de los pasos diarios de nuestros 33 encuestados podemos afirmar que no existe ninguna tendencia marcada a llevar un estilo de vida más o menos activo simplemente por comprar nuestro dispositivo. Es decir, aunque estamos analizando datos de unas personas que han hecho la compra de un articulo con la intención de cuidar su salud, no vemos una clara tendencia a que sean personas mucho más activas.
+
+También vemos que el 51,5% de nuestros encuestados no cumple con los 7.500 pasos diarios recomendados por Harvard.
+
+#### Propuesta Marketing
+
+Ya que según nos cuentan los datos, la simple compra de nuestros dispositivos no les aporta la motivación suficiente para realizar un cambio en su estilo de vida. Una posible buena idea sería lanzar una campaña de marketing honesta y una creación de contenidos clara y de valor sobre los procesos que hay que realizar para llevar una vida más sana. 
+
+## Análisis día de la semana
+
+En cuanto a los dias de la semana podemos ver que hay una clara tendencia. El promedio de pasos diarios llega a la recomendación media de 7500 o se acerca mucho todos los días de la semana menos el domingo.
+
+Conviertiendo el Domingo en el día más inactivo de nuestros encuestados con bastante diferencia.
+
+#### Propuesta Marketing
+
+Podríamos enviar notificaciones a nuestros dispositivos lo menos invasivas posibles. (Una vez al mes) Recordando a nuestros clientes de que el domingo nuestros usuarios suelen llevar un día más sedentario y animarles a realizar algun tipo de actividad física.
+
+## Análisis horas de sueño
+
+Los datos nos cuentan que al igual que el Domingo es el día más inactivo para nuestros encuestados también es día que más les cuesta dormirse. 
+
+#### Propuesta Marketing
+
+Buscar una manera no invasiva de mostrarle estos datos a nuestros clientes. Buscar informarle de estas tendencias nocivas repetitivas que sufre para que pueda tomar cartas en el asunto. (Aportarle estas mismas gráficas en un formato similar al Spotify Wrapped) Cada mes mostrarle en gráficas relevantes como minutos que le cuesta dormir por semana, pasos promedio... 
+
+Creo que mostrandole los datos sin señalarle directamente donde hace las cosas mal puede ser más probable que el usuario no se vea atacado y le sea de utilidad esta información.
+
+## Análisis de correlaciones
+
+En nuestro analisis de correlaciones sobre pasos diarios y calorias diarias con los minutos que les costaba dormir a los encuestados no encontramos una causalidad pero si una correlación.
+
+Podiamos observar que habia mucha gente que no cumplia con los requisitos minimos de pasos o calorias diarias y que aun así se dormía en un tiempo razonable. Sin embargo la mayoría de personas que les costaba mucho dormir solían ser en días que no cumplían sus pasos diarios.
+
+#### Propuesta Marketing
+
+Se le podría enviar una notificación personalizada en formato de "¿Sabías que?" para recordar al cliente que si aumenta su exposición al sol y aumenta su actividad física diaria conseguira un mejor descanso.
+
+## Análisis franja horaria
+
+Franja horaria AM:
+
+Hora a la que más andan de media: 9:00 AM Hora a la que menos andan de media: 3:00 AM
+
+Franja horaria PM
+
+Hora a la que más andan de media: 14:00 PM Es la hora a la que más andan de todo el día en general Hora a la que menos andan de media: 20:00 PM
+
+#### Propuesta Marketing
+
+Estos datos muestran la media de los horarios de caminar de nuestros clientes. Por lo tanto podríamos desarrollar campañas de marketing potenciando las horas a las que ya caminan nuestros clientes o intentando mejorar a las que no caminan.
+
+Ejemplo: Si interpretamos que tanto a las 9:00 AM como a las 14:00 PM caminan tanto por que estan llendo o volviendo del trabajo podemos buscar incentivar a la gente que busque completar los pasos necesarios del día en estos momentos. Haciendo campañas para incentivar no usar el ascensor o medidas similares.
 
 
+# Limitaciones del caso de estudio
+
+Este caso de estudio se basa en unos datos aportados voluntariamente por unas 33 personas las cuales no se sabe su información demográfica o geográfica.
+Para llegar a conclusiones reales y más acertadas se necesitaria más información.
