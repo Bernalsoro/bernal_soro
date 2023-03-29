@@ -197,7 +197,7 @@ El promedio de pasos diarios llega a la recomendación media de 7500 o se acerca
 
 ![Promedio de pasos por dia de la semana](https://user-images.githubusercontent.com/128240695/226968354-f912577c-9efd-480c-be1d-b2af9b641f39.png)
 
-## Propuesta:
+#### Propuesta:
 Propongo enviar una notificación un domingo al mes avisando a nuestros usuarios de que ese dia suele ser el más inactivo para la gente.
 Sin ser invasivos pero buscando ayudar a nuestro cliente a perseguir el objetivo por el cual compró nuestro producto, tener una mejor salud.
 
@@ -243,7 +243,7 @@ Como podemos observar en el siguiente gráfico se produce una subida de este tie
 ![Promedio de minutos que tardan en dormirse cada dia de la semana](https://user-images.githubusercontent.com/128240695/226977785-3b8d7a1e-ee04-4560-bb16-7cc061321237.png)
 
 
-## Propuesta
+#### Propuesta
 
 Proponemos enviar notificaciónes al dispositivo recordando la importancia de un buen descanso e informando al propio usuario de sus habitos recurrentes insanos.
 
@@ -260,7 +260,7 @@ Nos parecio buena idea buscar correlaciones entre distintos valores para ver si 
 
 ![Correlación entre pasos totales y minutos que les cuesta dormir](https://user-images.githubusercontent.com/128240695/227176819-d7c65af8-2ff9-4450-ac4c-f2278fcbae94.png)
 
-## Conclusión:
+#### Conclusión:
 
 En ninguna de las dos visualizaciones vemos una tendencia marcada, ni causalidad.
 Se puede interpretar una correlación a que la mayoría de usuarios que realiza los pasos diarios y la quema de calorias recomendada consigue dormirse en tiempos razonables. Sin embargo, también hay muchos usuarios que sin cumplir estos requerimientos se duermen en tiempos similares.
