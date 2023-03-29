@@ -127,7 +127,7 @@ La mayoría de tablas contienen 33 IDs únicos como se comentaba al inicio del p
 - Sleep_day_merged tiene solo 24 IDs únicos pero vamos a usar esta información para análisis de momento.
 - Weight_log_merged solo tiene 8 IDs únicos y no nos es suficiente para sacar información por lo que decidimos descartar esta tabla.
 
-# Aplicación al Estudio
+## Aplicación al Estudio
 Basandonos en la recomendación de pasos diarios realizada por **la universidad del Estado de Arizona, EEUU**. Segmentaremos a nuestros usuarios para sacar conclusiones
 
 [Estudio](https://pubmed.ncbi.nlm.nih.gov/14715035/)
