@@ -127,7 +127,7 @@ La mayoría de tablas contienen 33 IDs únicos como se comentaba al inicio del p
 - Sleep_day_merged tiene solo 24 IDs únicos pero vamos a usar esta información para análisis de momento.
 - Weight_log_merged solo tiene 8 IDs únicos y no nos es suficiente para sacar información por lo que decidimos descartar esta tabla.
 
-## Aplicación al Estudio
+## Aplicación al estudio
 Basandonos en la recomendación de pasos diarios realizada por **la universidad del Estado de Arizona, EEUU**. Segmentaremos a nuestros usuarios para sacar conclusiones
 
 [Estudio](https://pubmed.ncbi.nlm.nih.gov/14715035/)
@@ -151,7 +151,7 @@ Nos ayudamos del **formato condicional** y de **la funcion de google sheets  con
 [Google Sheets](https://docs.google.com/spreadsheets/d/1Od85SSWRcW4AML-0yNnlcNMJGiWnf0Q-IvRKoqXjbNM/edit?usp=sharing)
 
 
-### Análisis pasos diarios.
+## Análisis pasos diarios.
 
 Como podemos observar en el siguiente gráfico los datos nos muestran que no existe ninguna tendencia marcada a llevar un estilo de vida entre nuestros usuarios si no que se ve un reparto equivalente.
 
@@ -167,7 +167,7 @@ Podemos observar que hasta un **51,5%** de nuestros usuarios no llega a cumplir 
 
 ![Recuento Usuarios que cumplen la recomendación Harvard](https://user-images.githubusercontent.com/128240695/226929366-0e45012f-06a9-4571-8c55-533117124523.png)
 
-### Análisis día de la semana
+## Análisis día de la semana
 Pensamos que sería una buena idea obtener la información de que dia de la semana es cada fecha. Explico el proceso realizado en Big Query para obtener esta información:
 
 1. Creamos una columna nueva en formato String en la que almacenaremos esta información en formato texto:
@@ -197,11 +197,11 @@ El promedio de pasos diarios llega a la recomendación media de 7500 o se acerca
 
 ![Promedio de pasos por dia de la semana](https://user-images.githubusercontent.com/128240695/226968354-f912577c-9efd-480c-be1d-b2af9b641f39.png)
 
-### Propuesta:
+## Propuesta:
 Propongo enviar una notificación un domingo al mes avisando a nuestros usuarios de que ese dia suele ser el más inactivo para la gente.
 Sin ser invasivos pero buscando ayudar a nuestro cliente a perseguir el objetivo por el cual compró nuestro producto, tener una mejor salud.
 
-### Analisis horas de sueño
+## Analisis horas de sueño
 Comenzando un analisis más en profundidad sobre los parámetros sobre el sueño que existen en nuestra bases de datos, decidimos crear una nueva columna para un mejor análisis.
 
 1. Comenzamos creando una columna en formato texto para almacenar esta información con el siguiente código:
@@ -243,7 +243,7 @@ Como podemos observar en el siguiente gráfico se produce una subida de este tie
 ![Promedio de minutos que tardan en dormirse cada dia de la semana](https://user-images.githubusercontent.com/128240695/226977785-3b8d7a1e-ee04-4560-bb16-7cc061321237.png)
 
 
-#### Propuesta
+## Propuesta
 
 Proponemos enviar notificaciónes al dispositivo recordando la importancia de un buen descanso e informando al propio usuario de sus habitos recurrentes insanos.
 
