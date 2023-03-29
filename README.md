@@ -36,7 +36,7 @@ He seleccionado los siguientes archivos.csv para mi análisis basándome en los 
 
 Comencé la limpieza de las bases de datos usando la aplicación **Google Sheets**. 
 
-### Weight_log_info_merged:
+#### Weight_log_info_merged:
 
 1. Ordenar la base de datos por la columna del ID.
 2. Usar la función de eliminar duplicados. (No hay duplicados encontrados)
