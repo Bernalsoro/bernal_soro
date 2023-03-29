@@ -50,7 +50,7 @@ Comencé la limpieza de las bases de datos usando la aplicación **Google Sheets
 
 [Google Sheets](https://docs.google.com/spreadsheets/d/1w-dmdM5tiXAt6Jq-CHu_ymobib3WQwBMTIt06UCdWcs/edit?usp=sharing)
 
-### sleep_day_merged:
+#### sleep_day_merged:
 
 1. Ordenar la base de datos por la columna del ID.
 2. Usar función de elminar duplicados (3 filas eliminadas)
@@ -60,7 +60,7 @@ Comencé la limpieza de las bases de datos usando la aplicación **Google Sheets
 [Google Sheets](https://docs.google.com/spreadsheets/d/1YVixw0KGUk9Bhp07sh62YlOAgdGaErySShuXxLkl0QE/edit?usp=sharing)
 
 
-### daily_activity_merged:
+#### daily_activity_merged:
 
 1. Ordenar la base de datos por la columna del ID.
 2. Usar la función de eliminar duplicados. (No hay duplicados encontrados)
@@ -82,7 +82,7 @@ Comencé la limpieza de las bases de datos usando la aplicación **Google Sheets
 
 [Google Sheets](https://docs.google.com/spreadsheets/d/16Q4W-bv156F_FrUtitflACY8NORWa0ZoYp-xh-GhGtA/edit?usp=sharing)
 
-### hourly_caloriers_merged
+#### hourly_caloriers_merged
 
 1. Ordenar la base de datos por la columna del ID.
 2. Usar la función de eliminar duplicados. (No hay duplicados encontrados)
@@ -91,7 +91,7 @@ Comencé la limpieza de las bases de datos usando la aplicación **Google Sheets
 
 [Google Sheets](https://docs.google.com/spreadsheets/d/1QYdGoyIUP4wgcX4TqDzuoPd3EnjPtZxW50ZnqOV7evw/edit?usp=sharing)
 
-### AverageIntensity:
+#### AverageIntensity:
 
 1. Ordenar la base de datos por la columna del ID.
 2. Usar la función de eliminar duplicados. (No hay duplicados encontrados)
@@ -113,7 +113,7 @@ FROM decisive-studio-380411.Bellabeat_case.daily_activity_merged `
 
 Realizaremos la misma busqueda con cada uno de los 6 archivos seleccionados adaptando el apartado FROM a cada tabla.
 
-### Resultados:
+#### Resultados:
 
 - Daily_activity_merged: 33
 - Hourly_calories_merged: 33
