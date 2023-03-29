@@ -73,7 +73,7 @@ Comencé la limpieza de las bases de datos usando la aplicación **Google Sheets
 
 [Google Sheets](https://docs.google.com/spreadsheets/d/1It0i4vWwGqjK37p11CdaWbLDqMFPt53c3y5CFf07jJ4/edit?usp=sharing)
 
-### hourly_steps_merged:
+#### hourly_steps_merged:
 
 1. Ordenar la base de datos por la columna del ID.
 2. Usar la función de eliminar duplicados. (No hay duplicados encontrados)
